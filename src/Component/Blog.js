@@ -4,7 +4,7 @@ const Blog =()=>{
 
     return(
         <>
-        <h1>Hello blog..</h1>
+        <h1>This is my First blog..</h1>
         </>
     )
 }
